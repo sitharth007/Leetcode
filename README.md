@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sitharth007/Leetcode/tree/master/0043-multiply-strings) |
 | [0509-fibonacci-number](https://github.com/sitharth007/Leetcode/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
