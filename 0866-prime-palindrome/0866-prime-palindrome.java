@@ -1,41 +1,32 @@
 class Solution {
-    public int primePalindrome(int n) {
-     int num=n;
-     while(n>0){
-         if(prime(num)==1 && palindrome(num)==1){
-             return num;
-         }
-             num++;
-              if (num > 10_000_000 && num< 100_000_000) {
-            num = 100_000_000; 
-            }
-     }
-     return num;
-        
-    }
-    public static int prime(int num){
-        if(num<=1) return 0;
-        for(int i=2;i<=Math.sqrt(num);i++){
-           if(num%i==0){
-               return 0;
-           }
+    private boolean isPrime(int num) {
+        if (num == 1) return false;
+        for (int i = 2; i * i <= num; i++) {
+            if (num % i == 0) return false;
         }
-        return 1;
+        return true;
     }
-    public static int palindrome(int num){
-     if(num<0) return 0;
-     int origin=num;
-     int rev=0;
-     while(num>0){
-         int rem=num%10;
-         rev=rev*10+rem;
-         num=num/10;
-     }
-     if(rev==origin){
-         return 1;
-     }
-     else {
-         return 0;
-     }
+    
+    private int makePalindrome(int num) {
+        String s = Integer.toString(num);
+        String ans = s + new StringBuilder(s.substring(0, s.length()-1)).reverse().toString();
+        return Integer.parseInt(ans);
+    }
+    
+    public int primePalindrome(int n) {
+        if (n <= 2) return 2;
+        else if (n <= 3) return 3;
+        else if (n <= 5) return 5;
+        else if (n <= 7) return 7;
+        else if (n <= 11) return 11;
+        
+        int i = 1;
+        while (true) {
+            int palin = makePalindrome(i);
+            if (palin >= n && isPrime(palin)) {
+                return palin;
+            }
+            i++;
+        }
     }
 }
