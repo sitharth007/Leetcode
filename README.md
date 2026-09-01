@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
