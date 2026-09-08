@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sitharth007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/sitharth007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
+| [1046-last-stone-weight](https://github.com/sitharth007/Leetcode/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/sitharth007/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sitharth007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/sitharth007/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
