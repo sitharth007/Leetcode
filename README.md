@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sitharth007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/sitharth007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0229-majority-element-ii](https://github.com/sitharth007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/sitharth007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sitharth007/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/sitharth007/Leetcode/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/sitharth007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/sitharth007/Leetcode/tree/master/1046-last-stone-weight) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sitharth007/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
