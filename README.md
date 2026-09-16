@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/sitharth007/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sitharth007/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/sitharth007/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sitharth007/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3871-count-commas-in-range-ii](https://github.com/sitharth007/Leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/sitharth007/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/sitharth007/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Primality Test
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sitharth007/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/sitharth007/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
 |  |
 | ------- |
