@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sitharth007/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/sitharth007/Leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
 | [2390-removing-stars-from-a-string](https://github.com/sitharth007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sitharth007/Leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
