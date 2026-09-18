@@ -1,17 +1,10 @@
 class Solution {
     public int fib(int n) {
-        
-        if(n==1) return 1;
+        if(n <= 1) return n;
 
-        int num1 = 0;
-        int num2 = 1;
+        int last = fib(n - 1);
+        int slast = fib(n - 2);
 
-        int next=0;
-        for(int i=1;i<n;i++){
-            next = num1 + num2;
-            num1 = num2;
-            num2 = next;
-        }
-        return next;
+        return last + slast;
     }
 }
