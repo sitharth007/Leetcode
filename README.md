@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/sitharth007/Leetcode/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/sitharth007/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Number Theory
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sitharth007/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/sitharth007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sitharth007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/sitharth007/Leetcode/tree/master/1046-last-stone-weight) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Matrix
 |  |
 | ------- |
