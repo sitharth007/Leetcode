@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sitharth007/Leetcode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/sitharth007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sitharth007/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0349-intersection-of-two-arrays](https://github.com/sitharth007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sitharth007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
 | [1046-last-stone-weight](https://github.com/sitharth007/Leetcode/tree/master/1046-last-stone-weight) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sitharth007/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sitharth007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/sitharth007/Leetcode/tree/master/2032-two-out-of-three) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sitharth007/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/sitharth007/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sitharth007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sitharth007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/sitharth007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sitharth007/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/sitharth007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
