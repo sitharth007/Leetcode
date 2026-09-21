@@ -9,11 +9,11 @@ class Solution {
                 buy = prices[i];
             }
             else if(prices[i] > buy){
-                profit = buy - prices[i];
+                profit = prices[i] - buy;
                 max_pro += profit; 
                 buy = prices[i];
             }
         }
-        return (-1)*max_pro;
+        return max_pro;
     }
 }
