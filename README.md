@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sitharth007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/sitharth007/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sitharth007/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sitharth007/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sitharth007/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sitharth007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/sitharth007/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/sitharth007/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## String
