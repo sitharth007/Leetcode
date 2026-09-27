@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/sitharth007/Leetcode/tree/master/2032-two-out-of-three) |
+| [2716-minimize-string-length](https://github.com/sitharth007/Leetcode/tree/master/2716-minimize-string-length) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sitharth007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
 | [2390-removing-stars-from-a-string](https://github.com/sitharth007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2716-minimize-string-length](https://github.com/sitharth007/Leetcode/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/sitharth007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
