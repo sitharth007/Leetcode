@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sitharth007/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/sitharth007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sitharth007/Leetcode/tree/master/0500-keyboard-row) |
+| [0678-valid-parenthesis-string](https://github.com/sitharth007/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sitharth007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/sitharth007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/sitharth007/Leetcode/tree/master/2716-minimize-string-length) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sitharth007/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sitharth007/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sitharth007/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/sitharth007/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sitharth007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sitharth007/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sitharth007/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sitharth007/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Number Theory
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sitharth007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sitharth007/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sitharth007/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sitharth007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/sitharth007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
@@ -228,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sitharth007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sitharth007/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sitharth007/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
