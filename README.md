@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sitharth007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sitharth007/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3024-type-of-triangle](https://github.com/sitharth007/Leetcode/tree/master/3024-type-of-triangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sitharth007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/sitharth007/Leetcode/tree/master/0866-prime-palindrome) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sitharth007/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2652-sum-multiples](https://github.com/sitharth007/Leetcode/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/sitharth007/Leetcode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sitharth007/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sitharth007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/sitharth007/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sitharth007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/sitharth007/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3024-type-of-triangle](https://github.com/sitharth007/Leetcode/tree/master/3024-type-of-triangle) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sitharth007/Leetcode/tree/master/0056-merge-intervals) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/sitharth007/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
