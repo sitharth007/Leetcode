@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sitharth007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sitharth007/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sitharth007/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sitharth007/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3024-type-of-triangle](https://github.com/sitharth007/Leetcode/tree/master/3024-type-of-triangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sitharth007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sitharth007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/sitharth007/Leetcode/tree/master/2032-two-out-of-three) |
 | [2716-minimize-string-length](https://github.com/sitharth007/Leetcode/tree/master/2716-minimize-string-length) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sitharth007/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sitharth007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sitharth007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -269,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sitharth007/Leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sitharth007/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sitharth007/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
